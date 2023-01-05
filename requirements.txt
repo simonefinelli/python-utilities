@@ -1,0 +1,9 @@
+certifi==2021.10.8
+charset-normalizer==2.0.10
+idna==3.3
+lxml==4.7.1
+Pillow==8.4.0
+pymitter==0.3.1
+requests==2.27.1
+tqdm==4.62.3
+urllib3==1.26.8
