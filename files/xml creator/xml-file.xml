@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<RootElement>
+  <SubElement1>place text</SubElement1>
+  <SubElement2>
+    <SubSubElement/>
+  </SubElement2>
+</RootElement>
